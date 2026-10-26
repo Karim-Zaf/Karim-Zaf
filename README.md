@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Karim Zaafrani</h1>
-<h3 align="center">💻 CS Student @UTC | Apprentice @Cegedim | Tunisian Champion in Competitive Programming | 2×ACPC Finalist | Candidate Master @Codeforces</h3>
+<h3 align="center">💻 CS Student @UTC | Apprentice @Cegedim | 2×Tunisian Champion in Competitive Programming | 3×ACPC Finalist | Candidate Master @Codeforces</h3>
 
 ---
 
