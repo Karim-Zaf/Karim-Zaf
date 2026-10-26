@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 Currently pursuing an **Engineering Degree in Computer Science** at **Université de Technologie de Compiègne (UTC)** 🇫🇷  
 - 💼 **Apprentice @Cegedim**, working on DevSecOps and cloud security projects  
-- 🏆 **Tunisian Champion (1st @ TCPC25)** and **2× Finalist at ACPC (African & Arab Collegiate Programming Contest)**  
+- 🏆 **2×Tunisian Champion (TCPC25 & TCPC26)** and **3× Finalist at ACPC (African & Arab Collegiate Programming Contest)**  
 - 💜 **Candidate Master @Codeforces**, ranked among the **Top 10 Tunisians**  
 - ❤️ I **love competitive programming**, algorithms, and problem-solving challenges  
 - 🤖 Passionate about **AI**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**  
